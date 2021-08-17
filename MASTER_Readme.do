@@ -7,7 +7,7 @@
 
 *Set directory:
 
-global directory "\\Mac\Home\Documents\PhD\School diets Vietnam\Results\Paper\Submission to Food Policy\After reviews\Data to submit"
+global directory "~\Data to submit"
 
 *Balance between treatment arms (table 3-5)
 
